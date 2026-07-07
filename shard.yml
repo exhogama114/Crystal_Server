@@ -1,0 +1,7 @@
+name: kemal_server
+version: 0.1.0
+crystal: ">= 1.10.0"
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
